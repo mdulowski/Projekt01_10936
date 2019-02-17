@@ -61,7 +61,15 @@
     <Folder Include="dbo\Tables\" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="dbo\Tables\model.sql" />
-    <Build Include="dbo\Tables\marka.sql" />
+    <Build Include="dbo\Tables\ZespolyPracownikow.sql" />
+    <Build Include="dbo\Tables\Zespoly.sql" />
+    <Build Include="dbo\Tables\Zamowienia.sql" />
+    <Build Include="dbo\Tables\StanowiskaPracownikow.sql" />
+    <Build Include="dbo\Tables\Stanowiska.sql" />
+    <Build Include="dbo\Tables\Pracownicy.sql" />
+    <Build Include="dbo\Tables\Modele.sql" />
+    <Build Include="dbo\Tables\Marki.sql" />
+    <Build Include="dbo\Tables\Klienci.sql" />
+    <Build Include="dbo\Tables\Cenniki.sql" />
   </ItemGroup>
 </Project>
